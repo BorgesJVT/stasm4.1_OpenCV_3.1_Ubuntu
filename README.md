@@ -10,3 +10,4 @@ After that, execute the following command on your terminal:
 
 I've changed the external directory from Juan Cardelino and used a realtime stasm
 processing as code example.
+# stasm4.1_OpenCV_3.1_Ubuntu
